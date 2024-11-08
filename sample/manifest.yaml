@@ -1,0 +1,4 @@
+---
+applications:
+- name: hello-js
+  instances: 1
